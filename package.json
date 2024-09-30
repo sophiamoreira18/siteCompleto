@@ -1,0 +1,19 @@
+{
+  "name": "sitecompleto",
+  "version": "1.0.0",
+  "description": "projeto revisão de site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "projeto",
+    "test",
+    "aula"
+  ],
+  "author": "sophia moreira",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
